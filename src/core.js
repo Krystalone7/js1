@@ -122,6 +122,7 @@ function deepEqual(firstObject, secondObject) {
         )
             return false;
     }
+    return true;
 }
 
 module.exports = {
